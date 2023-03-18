@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "132474063378",
+    "project_id": "proyecto-realidad-aument-8f8e6",
+    "storage_bucket": "proyecto-realidad-aument-8f8e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132474063378:android:558e75f00b7f83c4cd66cb",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationcalculadorakotlinpractica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132474063378-mqf5tgj6n0gifnfj0me687brloq60bm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBk3tpivKyja4m5D9TEfTZzm9n5Wj04II4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132474063378-mqf5tgj6n0gifnfj0me687brloq60bm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
